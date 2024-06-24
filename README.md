@@ -235,7 +235,7 @@ Next.js hỗ trợ server side rendering, nghĩa là khi người dùng request 
 - Server Action
 - SEO ...
 
-### Thống nhất về cách viết code
+### Thống nhất về cách viết code.
 
 Ở React.js, có quá nhiều cách viết code và không có quy chuẩn.
 
