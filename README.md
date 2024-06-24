@@ -258,7 +258,7 @@ Vercel là công ty cung cấp các dịch vụ phía Server như hosting websit
 
 Vì thế họ tạo ra Next.js, vừa để khắc phục nhược điểm của SPA truyền thống, vừa gián tiếp bán các sản phẩm dịch vụ của họ. Ví dụ Next.js chạy trên dịch vụ Edge Runtime của họ sẽ có độ trễ thấp hơn so với chạy trên Node.js
 
-## 3. Yêu cầu khi học Next.js.
+## 3. Yêu cầu khi học Next.js
 
 - Cần biết HTML, CSS, JavaScript
 - Cần biết React.js cơ bản (Thao khảo khóa học [React.js Super](https://duthanhduoc.com/courses/react))
