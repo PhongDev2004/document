@@ -226,7 +226,7 @@ React.js thuần chỉ là client side rendering, nhanh thì cũng có nhanh nh�
 
 Next.js hỗ trợ server side rendering, nghĩa là khi người dùng request lên server thì server sẽ render ra html rồi trả về cho người dùng. Điều này giúp cho SEO tốt hơn.
 
-### Tích hợp nhiều tool mà React.js thuần không có
+### Tích hợp nhiều tool mà React.js thuần không có.
 
 - Tối ưu image, font, script
 - CSS module
