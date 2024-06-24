@@ -371,6 +371,6 @@ CSS trong Next.js, Client component, Cơ chế rendering, Setup môi trường, 
 
 Cách làm này gần giống với phương pháp refresh token, chỉ khác là khi refresh token chúng ta nhận lại cặp access token và refresh token mới. Còn khi dùng session này thì token vẫn giữ nguyên, chỉ là thời gian hết hạn của nó được tăng lên
 
-## Nếu tôi dùng access token và refresh token thì sao
+## Nếu tôi dùng access token và refresh token thì sao?
 
 ## Dùng axios thì sao?
