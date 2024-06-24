@@ -316,7 +316,7 @@ Mọi component dù là Server Component hay Client Component khi build đều s
 
 > React Server Component Payload là 1 data đặc biệt được render ở phía Server phục vụ cho việc đồng bộ, cập nhật DOM giữa Client Component và Server Component
 
-## Khi request lần thứ 2 (Subsequent Navigations)s
+## Khi request lần thứ 2 (Subsequent Navigations)
 
 Ví dụ chúng ta navigate từ `/home` sang `/about`
 
