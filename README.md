@@ -226,7 +226,7 @@ React.js thuần chỉ là client side rendering, nhanh thì cũng có nhanh nh�
 
 Next.js hỗ trợ server side rendering, nghĩa là khi người dùng request lên server thì server sẽ render ra html rồi trả về cho người dùng. Điều này giúp cho SEO tốt hơn.
 
-### Tích hợp nhiều tool mà React.js thuần không có.
+### Tích hợp nhiều tool mà React.js thuần không có
 
 - Tối ưu image, font, script
 - CSS module
@@ -292,7 +292,7 @@ Ngoài ra có thể deploy trên Vercel, Netlify. Nếu free thì chậm (phù h
 
 App Router, vì nó đã ra đời hơn 1 năm rồi và ổn định. Nó là tương lai của Next.js
 
-# Next.js render component của bạn như thế nào?
+# Next.js render component của bạn như thế nào?.
 
 Component ở đây bao gồm Server Component và Client Component
 
