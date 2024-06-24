@@ -284,7 +284,7 @@ Có. Rất nhiều dự án lớn dùng Next.js như Tiktok, Netflix, Uber, ...
 
 4. Next.js deploy ở đâu?
 
-Nên deploy trên VPS (tức là máy chủ ảo)
+Nên deploy trên VPS (tức là máy chủ ảo).
 
 Ngoài ra có thể deploy trên Vercel, Netlify. Nếu free thì chậm (phù hợp demo), còn trả phí thì khá là đắt.
 
