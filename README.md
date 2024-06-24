@@ -350,7 +350,7 @@ Client sẽ tự render ra HTML
 
 - Vậy nên khi xem video này, các bạn có thể bỏ qua giá trị `exp` trong JWT, **coi như nó vô nghĩa**. Chúng ta sẽ dùng một giá trị khác để xác định thời gian hết hạn của token.
 
-## Khi đang dùng mà session token hết hạn thì sao
+## Khi đang dùng mà session token hết hạn thì sao?
 
 Thì phải cho user đăng xuất.
 
