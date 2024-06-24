@@ -326,7 +326,7 @@ Client sẽ tự render ra HTML
 
 Điều này sẽ giúp việc navigation nhanh hơn, nhưng vẫn đảm bảo về SEO
 
-# Server Component
+# Server Component-
 
 Đây là chế độ mặc định của component trong Next.js
 
