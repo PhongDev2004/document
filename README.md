@@ -33,7 +33,7 @@ A GitHub action to turn a GitHub project into a self-hosted Helm chart repo, usi
 ### Environment variables
 
 - `CR_TOKEN` (required): The GitHub token of this repository (`${{ secrets.GITHUB_TOKEN }}`)
-# paint-github-459ca
+paint-github-459ca
 For more information on environment variables, see the [documentation](https://github.com/helm/chart-releaser#environment-variables).
 
 ### Example Workflow
