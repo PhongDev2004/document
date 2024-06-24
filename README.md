@@ -316,7 +316,7 @@ Mọi component dù là Server Component hay Client Component khi build đều s
 
 > React Server Component Payload là 1 data đặc biệt được render ở phía Server phục vụ cho việc đồng bộ, cập nhật DOM giữa Client Component và Server Component
 
-## Khi request lần thứ 2 (Subsequent Navigations)
+## Khi request lần thứ 2 (Subsequent Navigations)s
 
 Ví dụ chúng ta navigate từ `/home` sang `/about`
 
@@ -326,7 +326,7 @@ Client sẽ tự render ra HTML
 
 Điều này sẽ giúp việc navigation nhanh hơn, nhưng vẫn đảm bảo về SEO
 
-# Server Component-
+# Server Component
 
 Đây là chế độ mặc định của component trong Next.js
 
