@@ -367,7 +367,7 @@ Cách tốt nhất để giải quyết là trong lúc người dùng đang dùn
 Ví dụ session token hết hạn sau 15 ngày thì mỗi khi thời hạn hết hạn còn dưới 7 ngày refresh lại một lần.
 
 Trong trường hợp người ta không mở website 15 ngày thì khi mở lên sẽ bị đăng xuất
-CSS trong Next.js, Client component, Cơ chế rendering, Setup môi trường, Next.js là gì?, Next.js render component, Server Component, Một số vấn đề chưa giải quyết
+
 
 Cách làm này gần giống với phương pháp refresh token, chỉ khác là khi refresh token chúng ta nhận lại cặp access token và refresh token mới. Còn khi dùng session này thì token vẫn giữ nguyên, chỉ là thời gian hết hạn của nó được tăng lên
 
